@@ -1,0 +1,2 @@
+# coinhunter
+coinhunter
